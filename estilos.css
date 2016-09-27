@@ -1,0 +1,101 @@
+header{
+	background-color: #000000;
+	color:#fff;
+	  font-family: sans-serif;
+  font-size: 100%;
+  font-style: oblique;
+	
+}
+h1{
+	display: inline;
+	
+}
+h2{
+	margin: 0;
+	color:silver;
+}
+li{
+	background:black;
+	display: inline;
+	list-style: none;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 10px 5px;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font-family: cursive;
+
+}
+ul{
+	display: inline;
+	float: right;
+	text-align: right;
+	margin-right:5px;
+}
+li:hover{
+	background: silver;
+}
+ a:hover{
+	color: black;
+}
+p{
+margin: 0;
+text-align: center;
+font-size: 60px;
+font-weight: bold;
+color: #02FFBC;
+}
+
+footer{
+	background-color: black;
+	display: inline;
+	border: 2px;
+	color:white;
+}
+.button:hover{
+	background: silver;
+	
+}
+.button{
+      background: darkorange;
+      margin-left: 30px;
+      padding: 20px 20px;
+      display: inline;
+     text-align: center;
+     border-radius: 10px 10px;
+     color:white;
+	    
+	}
+	article{
+		text-align: center;
+		 margin-left: 18px;
+
+	}
+section{
+	background-image: url("perros_gatos.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 110%;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+.contenedor_titulo{
+	height: 520px;
+	display: table;
+}
+.titulo{
+	display: table-cell;
+	vertical-align: middle;
+	color: white;
+	font-size: 3rem;
+
+}
+h4{
+	background-color: black;
+	display: block;
+	padding: 20px;
+	margin:0px;
+
+}
